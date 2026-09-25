@@ -12,12 +12,6 @@ A responsive job and internship application tracker built with React and Vite. T
 - Data persists in your browser's `localStorage`; no account or server is needed.
 - Responsive layout, keyboard focus states, semantic controls, and empty states.
 
-## Screenshots
-
-![Desktop application board](screenshots/board-desktop.png)
-
-![Mobile application board](screenshots/board-mobile.png)
-
 ## Run locally
 
 Requires Node.js 18 or newer.
